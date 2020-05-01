@@ -1,17 +1,17 @@
-def nulo(n):#1
-    str(n)#2
-    if n == '\n':#3
-        return '0\n'#4
-    else:#5
-        return n#6
-#7
-#8
-abrir = open('VLR_SDO_DDR.txt')#9
-criar = open('VLR_SDO_DDR_zero.txt', 'w')#10
-#11
-for i in abrir.readlines():#12
-    criar.write(nulo(i))#13
-#14
-#15
-abrir.close()#16
-criar.close()#17
+def nulo(n):
+    str(n)
+    if n == '\n':
+        return '0\n'
+    else:
+        return n
+
+
+abrir = open('VLR_SDO_DDR.txt')
+criar = open('VLR_SDO_DDR_zero.txt', 'w')
+
+for i in abrir.readlines():
+    criar.write(nulo(i))
+
+
+abrir.close()
+criar.close()
