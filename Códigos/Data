@@ -1,0 +1,18 @@
+def data(a):
+    a = str(a)
+    a = list(a)
+    a.insert(2,'/')
+    a.insert(5,'/')
+    a = ''.join(a)
+
+    return a
+
+arq = open('data_formatando.txt')
+DataFinal = open('DataFinal.txt', 'w')
+
+for linha in arq.readlines():
+    DataFinal.write(data(linha))
+
+
+arq.close()
+DataFinal.close()
