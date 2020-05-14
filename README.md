@@ -9,8 +9,5 @@ A empresa SPC Brasil através de uma parceria acadêmica com a Faculdade de Tecn
 
 Nossa equipe está utilizando como tecnologia para o back-end Python instalado, jupyter notebook instalado; bibliotecas: pandas, para o front-end estamos utilizando a framework electron
 
-## **Time 6**
 
-@anaclaragraciano (Master)
-@thiagoCan
 
