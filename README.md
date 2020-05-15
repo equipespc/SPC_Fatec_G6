@@ -9,6 +9,16 @@ A empresa SPC Brasil através de uma parceria acadêmica com a Faculdade de Tecn
 
 Nossa equipe está utilizando como tecnologia para o back-end Python instalado, jupyter notebook instalado; bibliotecas: pandas, para o front-end estamos utilizando a framework electron.
 
+## **Time 6**
+Ana Clara Graciano- Scrum Master
+
+Marcos Yan Miranda ferreira- Product Owner
+
+João Pedro Apse Paes- Development Team
+
+Thiago Fernandes Canonici- Development Team
+
+Wallace Caetano Souza Santos- Development Team
 
 
 
