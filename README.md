@@ -11,9 +11,9 @@ Nossa equipe está utilizando como tecnologia parhttps://github.com/a o back-end
 
 ## ** Vizualização**
 
-A interface foi feita com electron js. Nela o usuário analisar os dados usando diferntes filtros.
+A interface foi feita com electron js. Nela o usuário analisar os dados usando diferntes filtros:
 
-![Animated GIF-source] (https://media.giphy.com/media/fAn7MCpfoKvcLnPyUP/source.mov)
+(https://media.giphy.com/media/fAn7MCpfoKvcLnPyUP/source.mov)
 
 
 
