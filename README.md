@@ -13,7 +13,7 @@ Nossa equipe está utilizando como tecnologia para o back-end Python instalado, 
 
 A interface foi feita com electron js. Nela o usuário analisar os dados usando diferntes filtros.
 
-![] (Animated GIF-source(1).gif)
+![] (Interface.gif)
 
 
 
