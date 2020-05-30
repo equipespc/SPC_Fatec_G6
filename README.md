@@ -13,7 +13,7 @@ Nossa equipe está utilizando como tecnologia parhttps://github.com/a o back-end
 
 A interface foi feita com electron js. Nela o usuário analisar os dados usando diferntes filtros.
 
-![Animated GIF-source] (https://github.com/equipespc/SPC_Fatec_G6/blob/master/AnimatedGIF-source.gif)
+![Animated GIF-source] (https://github.com/equipespc/SPC_Fatec_G6/blob/master/Animated\ GIF-source.gif)
 
 ![Animated GIF-source] (https://media.giphy.com/media/fAn7MCpfoKvcLnPyUP/source.mov)
 
