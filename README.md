@@ -9,6 +9,14 @@ A empresa SPC Brasil através de uma parceria acadêmica com a Faculdade de Tecn
 
 Nossa equipe está utilizando como tecnologia para o back-end Python instalado, jupyter notebook instalado; bibliotecas: pandas, para o front-end estamos utilizando a framework electron.
 
+## ** Vizualização**
+
+A interface foi feita com electron js. Nela o usuário analisar os dados usando diferntes filtros.
+
+![] (Animated GIF-source(1).gif)
+
+
+
 ## **Time 6**
 Marcos Yan Miranda ferreira- Scrum Master
 
