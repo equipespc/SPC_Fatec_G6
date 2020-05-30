@@ -13,7 +13,7 @@ Nossa equipe está utilizando como tecnologia para o back-end Python instalado, 
 
 A interface foi feita com electron js. Nela o usuário analisar os dados usando diferntes filtros.
 
-![Interface] (https://gph.is/g/4LWkeWR)
+![Interface] (https://media.giphy.com/media/fAn7MCpfoKvcLnPyUP/source.mov)
 
 
 
