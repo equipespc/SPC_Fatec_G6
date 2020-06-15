@@ -25,7 +25,7 @@ João Pedro Apse Paes- Development Team
 
 Thiago Fernandes Canonici- Development Team
 
-Renan Vitor - Product Owner
+Renan Vitor Fernandes Mendonça - Product Owner
 
 
 
