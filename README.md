@@ -13,7 +13,7 @@ O nosso produto busca inserir um processo novo na captação de dados do SPC Bra
 
 ## **Vizualização**
 
-A interface será feita em ReactJS aplicativo responsivo para desktop e mobile. 
+A interface será feita em ReactJS aplicativo responsivo para desktop e mobile. O projeto vai manter o padrão de identidade visual do SPC Brasi usando as diretrizes do documento "Guia de uso e montagem da marca SPC".
 
 
 ## **Time 6**
