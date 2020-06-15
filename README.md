@@ -3,30 +3,27 @@ Este projeto integrador foi proposto pela Faculdade de Tecnologia de São José 
 
 ## **Introdução**
 
-A empresa SPC Brasil através de uma parceria acadêmica com a Faculdade de Tecnologia de São José dos Campos, desenvolveu a proposta do projeto tendo por finalidade filtrar os dados do Cadastro Positivo, fazendo a separação entre dados qualificados e dados que precisam ser corrigidos, além realizar demonstrações dos indicadores e se possível criar novos, a fim de melhorar a maneira de atender os usuários.
+A empresa SPC Brasil através de uma parceria acadêmica com a Faculdade de Tecnologia de São José dos Campos, desenvolveu a proposta do projeto tendo por finalidade criar um produto que busca criar um benefício ou resolver um problema  do cliente SPC Brasil.
 
 ## **Desenvolvimento**
 
-Nossa equipe está utilizando como tecnologia parhttps://github.com/a o back-end Python instalado, jupyter notebook instalado; bibliotecas: pandas, para o front-end estamos utilizando a framework electron.
+Nossa equipe usa o github para o versionamento do projeto, as análises são feitas em python usando o jupyter notebook e o produto final será desenvolvido em ReactJS.
 
-## ** Vizualização**
+## **Vizualização**
 
-A interface foi feita com electron js. Nela o usuário analisar os dados usando diferntes filtros:
-
-(https://media.giphy.com/media/fAn7MCpfoKvcLnPyUP/source.mov)
-
+A interface será feita em ReactJS aplicativo responsivo para desktop e mobile. 
 
 
 ## **Time 6**
-Marcos Yan Miranda ferreira- Scrum Master
+Marcos Yan Miranda Ferreira- Scrum Master
 
-Ana Clara Graciano- Product Owner
+Ana Clara Graciano- Development Team
 
 João Pedro Apse Paes- Development Team
 
 Thiago Fernandes Canonici- Development Team
 
-Wallace Caetano Souza Santos- Development Team
+Renan Vitor - Product Owner
 
 
 
