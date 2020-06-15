@@ -9,6 +9,8 @@ A empresa SPC Brasil através de uma parceria acadêmica com a Faculdade de Tecn
 
 Nossa equipe usa o github para o versionamento do projeto, as análises são feitas em python usando o jupyter notebook e o produto final será desenvolvido em ReactJS.
 
+O nosso produto busca inserir um processo novo na captação de dados do SPC Brasil a fim de acelerar os processos internos. 
+
 ## **Vizualização**
 
 A interface será feita em ReactJS aplicativo responsivo para desktop e mobile. 
