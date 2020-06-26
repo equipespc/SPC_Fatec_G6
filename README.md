@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="LogoSPC.png" width="350" title="hover text">
-  <img src="LogoSPC.png" width="350" alt="accessibility text">
-</p>
+![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/LogoSPC.jpg)
 
 # Projeto Integrador- 2° Semestre
 Este projeto integrador foi proposto pela Faculdade de Tecnologia de São José dos Campos em parceria com a Empresa SPC Brasil, para os alunos dos 2° semestre do curso de Análise e Desenvolvimento de Sistemas.
