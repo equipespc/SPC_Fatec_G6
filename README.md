@@ -11,7 +11,7 @@ A empresa SPC Brasil através de uma parceria acadêmica com a Faculdade de Tecn
 
 A equipe usa este github para o versionamento do projeto em sprints definidas em cronograma feito pela universidade, as análises iniciais das remessas de dados repassados são feitas em python usando o jupyter notebook e o produto final será desenvolvido em ReactJS para inclusão de aplicação em site do SPC Brasil.
 
-O produto em questão é uma espécie de optmizador de pefis de consumo e consumidores.
+O produto em questão é uma espécie de optmizador de perfis de consumo e consumidores.
 
 Esta solução busca, além de inserir um processo novo na captação de dados do SPC Brasil (voltado a um contato direto com o consumidor dos produtos oferecidos, a fim de identificar padrões de Consumo dos mesmos baseado na resposta de formulário específico sobre o estilo e vida e foco de gastos), fazer a análise dessas respostas e o cruzamento da mesma com o que está contido no Cadastro Positivo de cada pessoa (física ou jurídica), gerando uma melhor indicação ao time de Marketing e de Engenharia de Produto de potenciais perfis de clientes.
 
