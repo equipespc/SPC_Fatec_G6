@@ -17,7 +17,7 @@ Esta solução busca, além de inserir um processo novo na captação de dados d
 
 Dessa forma, torna-se mais assertiva a personalização de ofertas de linhas de crédito que melhor se adequem à realidade financeira de cada público-alvo e, por consequência, eleva o nível de adesão das mesmas.
 
-## **Vizualização e Tecnologias**
+## **Produto e Tecnologias**
 
 A interface será feita em HTML e Bootstrap, aplicação responsiva, adaptada para desktop e mobile. O projeto vai manter o padrão de identidade visual do SPC Brasil, usando as diretrizes do documento "Guia de uso e montagem da marca SPC".
 
