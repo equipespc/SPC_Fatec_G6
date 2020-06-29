@@ -19,7 +19,7 @@ Dessa forma, torna-se mais assertiva a personalização de ofertas de linhas de 
 
 ## **Vizualização e Tecnologias**
 
-A interface será feita em ReactJS, aplicação responsiva, adaptada para desktop e mobile. O projeto vai manter o padrão de identidade visual do SPC Brasil, usando as diretrizes do documento "Guia de uso e montagem da marca SPC".
+A interface será feita em HTML e Bootstrap, aplicação responsiva, adaptada para desktop e mobile. O projeto vai manter o padrão de identidade visual do SPC Brasil, usando as diretrizes do documento "Guia de uso e montagem da marca SPC".
 
 O usuário (pessoa física ou jurídica), adepto do cadastro positivo e interessado em obter crédito junto ao SPC, irá responder a um questionário socioeconômico e submeter suas respostas a um sistema de análise das para identificar os padrões de consumo e que de tipo de consumidor o mesmo se trata. Com o cruzamento dessas informações com o contido no Cadastro Positivo referente ao respectivo CPF ou CNPJ, passa-se ao time de marketing e de engenharia de produto um dado mais preciso do estilo de vida do solicitante (foco de gastos, quantidade de parcelas que comumente ele adquire, média de gasto por empréstimo, risco de não pagamento, entre outros indicadores).
 
