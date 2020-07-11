@@ -36,6 +36,7 @@
   A Aplicação ainda conta com o indicador de erros encontrados durante a análise da remessa de dados das tabelas .csv para posterior envio para correção junto das fontes remetentes.
   
   ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/Data_Science.jpg)
+  ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Benef%C3%ADcios_Data_Science_e_Preparation.png)
   
   **Quais são os benefícios da data preparation?**                                        **Quais os benefícios do Data Science?**
   
