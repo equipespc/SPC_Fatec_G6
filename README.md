@@ -14,7 +14,7 @@
 
   - [Ana Clara Graciano](https://github.com/anaclaragraciano) - **Development Team (DT)**.
 
-  - João Pedro Apse Paes](https://github.com/JoaoPedroPaes) - **Development Team (DT)**.
+  - [João Pedro Apse Paes](https://github.com/JoaoPedroPaes) - **Development Team (DT)**.
 
   - [Thiago Fernandes Canonici](https://github.com/thiagoCan) - **Development Team (DT)**.
 
@@ -51,8 +51,7 @@
   
   As análises permitiram concluir um espaço amostral, da 2ª remessa em questão, de 13 CPFs validados com suas respectivas regiões e particularidades de crédito, como exemplo de resultado de análise. Abaixo é possível visualizar dois gráficos desse espaço amostral separado por região do país em termos de origem e moradia atual.
   
- [**Exemplo: CPFs por Estado de Origem e Estado de Moradia Atual**]
- (https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Gr%C3%A1fico_CPF%20Estado_e_Origem.PNG)
+ [**Exemplo: CPFs por Estado de Origem e Estado de Moradia Atual**](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Gr%C3%A1fico_CPF%20Estado_e_Origem.PNG)
 
 ## **Entregas** ##
 
