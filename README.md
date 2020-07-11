@@ -43,7 +43,7 @@
   
   As telas da interface da aplicação foram idealizadas em ReactJS, CSS e Html e contarão com o código da análise para a execução e exibição da mesma no próprio front-end.
   
-  Dados analisados: [2ª Remessa de dados]
+  Os dados analisados são referentes à [2ª Remessa de dados](https://github.com/equipespc/SPC_Fatec_G6/tree/master/Semana%206/Dados%20-%202%C2%AA%20Remessa).
 
 ## **Funcionamento e embasamento técnico** ##
   
