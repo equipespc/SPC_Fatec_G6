@@ -55,7 +55,7 @@
  
   As análises das tabelas de remessa de dados de Pessoas Físicas bem como a geração de gráficos e tabelas resultado, foram codificadas e realizadas utilizando-se o Jupyter Notebook com o auxílio do PANDAS (Python) para a adaptação do código de validação do CPF fornecido, em JavaScript, pelo website da Receira Federal.
   
-  As telas da interface da aplicação foram idealizadas em ReactJS, CSS e Html e contarão com o código da análise para a execução e exibição da mesma no próprio front-end.
+  As telas da interface da aplicação foram idealizadas com tecnologia de Bootstrap, CSS, Html e JavaScript, contando ainda com o código da análise para a execução e exibição da mesma no próprio front-end.
   
   Os dados analisados são referentes à [2ª Remessa de dados](https://github.com/equipespc/SPC_Fatec_G6/tree/master/Semana%206/Dados%20-%202%C2%AA%20Remessa).
 
