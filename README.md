@@ -1,11 +1,11 @@
 ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/LogoFINAL.jpg)
 
-# Projeto Integrador- 2° Semestre
-Este projeto integrador foi proposto pela Faculdade de Tecnologia de São José dos Campos em parceria com a Empresa SPC Brasil, para os alunos dos 2° semestre do curso de Análise e Desenvolvimento de Sistemas.
+# Projeto Integrador- 2° Semestre - B
+Este projeto integrador foi proposto pela Faculdade de Tecnologia de São José dos Campos em parceria com a SPC Brasil, parceiro educacional, para os alunos dos 2° semestre do curso de Análise e Desenvolvimento de Sistemas.
 
 ## **Introdução**
 
-A empresa SPC Brasil através de uma parceria acadêmica com a Faculdade de Tecnologia de São José dos Campos, desenvolveu a proposta do projeto tendo por finalidade o desenvolvimento de um produto que visa criar um benefício (agregar valor) em resolver um problema do cliente SPC Brasil com base nos dados fornecidos mediante legislação do Cadastro Positivo.
+A empresa SPC Brasil através de uma parceria acadêmica com a Faculdade de Tecnologia de São José dos Campos, desenvolveu a proposta do projeto tendo por finalidade o desenvolvimento de um produto que visa criar um benefício (agregar valor) em resolver um problema do parceiro educacional com base nos dados fornecidos mediante legislação do Cadastro Positivo.
 
 ## **Desenvolvimento**
 
@@ -29,13 +29,15 @@ Em suma, o projeto visa a criação de um facilitador para desenvolvimento de pr
 ## **Time 6**
 Marcos Yan Miranda Ferreira- Scrum Master
 
+Renan Vitor Fernandes Mendonça - Product Owner
+
 Ana Clara Graciano- Development Team
 
 João Pedro Apse Paes- Development Team
 
 Thiago Fernandes Canonici- Development Team
 
-Renan Vitor Fernandes Mendonça - Product Owner
+
 
 
 
