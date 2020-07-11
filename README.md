@@ -1,7 +1,29 @@
 ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/LogoFINAL.jpg)
 
-# Projeto Integrador- 2° Semestre - B
-Este projeto integrador foi proposto pela Faculdade de Tecnologia de São José dos Campos em parceria com a SPC Brasil, parceiro educacional, para os alunos dos 2° semestre do curso de Análise e Desenvolvimento de Sistemas.
+## Projeto Integrador - 2° Semestre - B
+
+  Projeto integrador proposto pela Faculdade de Tecnologia de São José dos Campos em parceria com a SPC Brasil, parceiro educacional, para os alunos dos 2° semestre do curso de  Análise e Desenvolvimento de Sistemas.
+
+## **Integrantes**
+
+  [Marcos Yan Miranda Ferreira](https://github.com/equipespc) - **Scrum Master**.
+
+  [Renan Vitor Fernandes Mendonça](https://github.com/RenanVitor) - **Product Owner**.
+
+  [Ana Clara Graciano](https://github.com/anaclaragraciano) - **Development Team**.
+
+  [João Pedro Apse Paes](https://github.com/JoaoPedroPaes) - **Development Team**.
+
+  [Thiago Fernandes Canonici](https://github.com/thiagoCan) - **Development Team**.
+
+## **Disciplinas Integradas**
+  
+  **Sistemas de Informação** - Prof. Cláudio Etelvino de Lima.
+  
+  **Engenharia de Software I** - Prof.ª Juliana Forin Pasquini Martinez.
+  
+  **Linguagem de Programação** - Prof. Reinaldo Gen Ichiro Arakaki.
+
 
 ## **Introdução**
 
@@ -26,16 +48,7 @@ O usuário (pessoa física ou jurídica), adepto do cadastro positivo e interess
 Em suma, o projeto visa a criação de um facilitador para desenvolvimento de produtos precisos e adequados ao meio financeiro das pessoas e empresas.
 
 
-## **Time 6**
-Marcos Yan Miranda Ferreira- Scrum Master
 
-Renan Vitor Fernandes Mendonça - Product Owner
-
-Ana Clara Graciano- Development Team
-
-João Pedro Apse Paes- Development Team
-
-Thiago Fernandes Canonici- Development Team
 
 
 
