@@ -29,13 +29,21 @@
 
 ## **CPF Data Verifier: Conceito e Objetivo**
 
-  A partir das remessas de dados de pessoas físicas oriundos das fontes (instituições financeiras), surgiu a ideia de criar o CPF Data Verfier (Verificador de Dados de CPF) que surge como solução para a área de crédito, no sentido de executar o trabalho em frentes de Data Science e Data Preparation, permitindo ao analista de crédito não somente validar os CPFs das pessoas físicas repassadas como também relacionar informações que possibilitem o levantamento de perfis de consumidor (quanto ao potencial, ou não, de bom pagador, região de moradia no país, quantidades de parcelas e valores totais gastos) com base na síntese de gráficos e tabelas apresentados na tela da aplicação desktop.
+  A partir das remessas de dados de pessoas físicas oriundos das fontes (instituições financeiras), surgiu a ideia de criar o CPF Data Verfier (Verificador de Dados de CPF) que surge como solução para a área de crédito, no sentido de executar o alinhamento para o trabalho em frentes de Data Science e Data Preparation, permitindo ao analista de crédito não somente validar os CPFs das pessoas físicas repassadas como também relacionar informações que possibilitem o levantamento de perfis de consumidor (quanto ao potencial, ou não, de bom pagador, região de moradia no país, quantidades de parcelas e valores totais gastos) com base na síntese de gráficos e tabelas apresentados na tela da aplicação desktop.
   
   Dessa forma, fica facilitado para o analista de crédito o processo de identificar potenciais consumidores com bom histórico de pagamento e ter acesso também aos valores médios de gasto de consumo para definir estratégias e produtos alinhados com a realidade financeira de cada consumidor.
   
   A Aplicação ainda conta com o indicador de erros encontrados durante a análise da remessa de dados das tabelas .csv para posterior envio para correção junto das fontes remetentes.
   
   ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/Data_Science.jpg)
+  
+  **Quais são os benefícios da data preparation?**                                        **Quais os benefícios do Data Science?**
+  
+  - Fortalecimento da autonomia dos setores com dados confiáveis;                         - Tomadas de decisões mais assertivas;
+  
+  - Ponto de partida para diversos novos produtos;                                        - Fidelização dos clientes;
+  
+  - Geração de um diferencial competitivo com a melhora dos dados;                        - Estratégias personalizadas que geram diferenciais competitivos frente à concorrência;
   
  ## **Ferramentas e Tecnologias** ##
  
