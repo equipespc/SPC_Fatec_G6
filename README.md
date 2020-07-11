@@ -2,7 +2,9 @@
 
 ## Projeto Integrador - 2° Semestre - B
 
-  Projeto integrador proposto pela Faculdade de Tecnologia de São José dos Campos em parceria com a SPC Brasil, parceiro educacional, para os alunos dos 2° semestre do curso de  Análise e Desenvolvimento de Sistemas.
+  Projeto integrador proposto pela Faculdade de Tecnologia de São José dos Campos em parceria com a SPC Brasil, parceiro educacional, para os alunos dos 2° semestre do curso de  Análise e Desenvolvimento de Sistemas, tendo por finalidade o desenvolvimento de um produto que visa criar um benefício (agregar valor) em resolver uma demanda do parceiro educacional com base nos dados fornecidos mediante legislação do Cadastro Positivo.
+  
+  ![alt text](https://www.cdlcampos.org.br/images/noticias/7829_100419085941_Sem_titulo.png)
 
 ## **Integrantes**
 
@@ -25,11 +27,11 @@
   **Linguagem de Programação** - Prof. Reinaldo Gen Ichiro Arakaki.
 
 
-## **Introdução**
+## **CPF Data Verifier**
 
-A empresa SPC Brasil através de uma parceria acadêmica com a Faculdade de Tecnologia de São José dos Campos, desenvolveu a proposta do projeto tendo por finalidade o desenvolvimento de um produto que visa criar um benefício (agregar valor) em resolver um problema do parceiro educacional com base nos dados fornecidos mediante legislação do Cadastro Positivo.
 
-## **Desenvolvimento**
+
+## **Objetivo**
 
 A equipe usa este github para o versionamento do projeto em sprints definidas em cronograma feito pela universidade, as análises iniciais das remessas de dados repassados são feitas em python usando o jupyter notebook e o produto final será desenvolvido em ReactJS para inclusão de aplicação em site do SPC Brasil.
 
