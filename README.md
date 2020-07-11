@@ -1,4 +1,4 @@
-![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/LogoFINAL.jpg)
+![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/logoFINAL.jpg)
 
 ## Projeto Integrador - 2° Semestre - B
 
