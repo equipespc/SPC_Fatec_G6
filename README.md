@@ -35,7 +35,7 @@
   
   A Aplicação ainda conta com o indicador de erros encontrados durante a análise da remessa de dados das tabelas .csv para posterior envio para correção junto das fontes remetentes.
   
-  [entar com data science e data prep]
+  ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/Data_Science.jpg)
   
  ## **Ferramentas e Tecnologias** ##
  
