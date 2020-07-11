@@ -8,15 +8,15 @@
 
 ## **Integrantes**
 
-  [Marcos Yan Miranda Ferreira](https://github.com/equipespc) - **Scrum Master**.
+  [Marcos Yan Miranda Ferreira](https://github.com/equipespc) - **Scrum Master (SM)**.
 
-  [Renan Vitor Fernandes Mendonça](https://github.com/RenanVitor) - **Product Owner**.
+  [Renan Vitor Fernandes Mendonça](https://github.com/RenanVitor) - **Product Owner (PO)**.
 
-  [Ana Clara Graciano](https://github.com/anaclaragraciano) - **Development Team**.
+  [Ana Clara Graciano](https://github.com/anaclaragraciano) - **Development Team (DT)**.
 
-  [João Pedro Apse Paes](https://github.com/JoaoPedroPaes) - **Development Team**.
+  [João Pedro Apse Paes](https://github.com/JoaoPedroPaes) - **Development Team (DT)**.
 
-  [Thiago Fernandes Canonici](https://github.com/thiagoCan) - **Development Team**.
+  [Thiago Fernandes Canonici](https://github.com/thiagoCan) - **Development Team (DT)**.
 
 ## **Disciplinas Integradas**
   
@@ -27,29 +27,47 @@
   **Linguagem de Programação** - Prof. Reinaldo Gen Ichiro Arakaki.
 
 
-## **CPF Data Verifier**
+## **CPF Data Verifier: Conceito e Objetivo**
 
+  A partir das remessas de dados de pessoas físicas oriundos das fontes (instituições financeiras), surgiu a ideia de criar o CPF Data Verfier (Verificador de Dados de CPF) que surge como solução para a área de crédito, no sentido de executar o trabalho em frentes de Data Science e Data Preparation, permitindo ao analista de crédito não somente validar os CPFs das pessoas físicas repassadas como também relacionar informações que possibilitem o levantamento de perfis de consumidor (quanto ao potencial, ou não, de bom pagador, região de moradia no país, quantidades de parcelas e valores totais gastos) com base na síntese de gráficos e tabelas apresentados na tela da aplicação desktop.
+  
+  Dessa forma, fica facilitado para o analista de crédito o processo de identificar potenciais consumidores com bom histórico de pagamento e ter acesso também aos valores médios de gasto de consumo para definir estratégias e produtos alinhados com a realidade financeira de cada consumidor.
+  
+  A Aplicação ainda conta com o indicador de erros encontrados durante a análise da remessa de dados das tabelas .csv para posterior envio para correção junto das fontes remetentes.
+  
+  [entar com data science e data prep]
+  
+ ## **Ferramentas e Tecnologias** ##
+ 
+  As análises das tabelas de remessa de dados de Pessoas Físicas bem como a geração de gráficos e tabelas resultado, foram codificadas e realizadas utilizando-se o Jupyter Notebook com o auxílio do PANDAS (Python) para a adaptação do código de validação do CPF fornecido, em JavaScript, pelo website da Receira Federal.
+  
+  As telas da interface da aplicação foram idealizadas em ReactJS, CSS e Html e contarão com o código da análise para a execução e exibição da mesma no próprio front-end.
+  
+  Dados analisados: [2ª Remessa de dados]
 
+## **Funcionamento e embasamento técnico** ##
+  
+  A aplicação, desenvolvida incialmente para Desktops, com foco em pessoa física para o setor de crédito do SPC Brasil, visa, por meio de algoritmo próprio fornecido pela receita federal (dando grau de realidade para a solução), validar os CPFs repassados na remessa de dados das mais diversas instituições financeiras a fim de cruzar os dados destes correspondentes ao histórico de consumo junto à fonte remetente e levantar gráficos e tabelas a serem exibidos nas telas da solução.
+  
+  As análises permitiram concluir um espaço amostral, da 2ª remessa em questão, de 13 CPFs validados com suas respectivas regiões e particularidades de crédito. Abaixo é possível visualizar dois gráficos desse espaço amostral separado por região do país em termos de origem e moradia atual.
+  
+ [entra com os gráficos]
 
-## **Objetivo**
+## **Entregas** ##
 
-A equipe usa este github para o versionamento do projeto em sprints definidas em cronograma feito pela universidade, as análises iniciais das remessas de dados repassados são feitas em python usando o jupyter notebook e o produto final será desenvolvido em ReactJS para inclusão de aplicação em site do SPC Brasil.
-
-O produto em questão é uma espécie de optmizador de perfis de consumo e consumidores.
-
-Esta solução busca, além de inserir um processo novo na captação de dados do SPC Brasil (voltado a um contato direto com o consumidor dos produtos oferecidos, a fim de identificar padrões de Consumo dos mesmos baseado na resposta de formulário específico sobre o estilo e vida e foco de gastos), fazer a análise dessas respostas e o cruzamento da mesma com o que está contido no Cadastro Positivo de cada pessoa (física ou jurídica), gerando uma melhor indicação ao time de Marketing e de Engenharia de Produto de potenciais perfis de clientes.
-
-Dessa forma, torna-se mais assertiva a personalização de ofertas de linhas de crédito que melhor se adequem à realidade financeira de cada público-alvo e, por consequência, eleva o nível de adesão das mesmas.
-
-## **Produto e Tecnologias**
-
-A interface será feita em HTML e Bootstrap, aplicação responsiva, adaptada para desktop e mobile. O projeto vai manter o padrão de identidade visual do SPC Brasil, usando as diretrizes do documento "Guia de uso e montagem da marca SPC".
-
-O usuário (pessoa física ou jurídica), adepto do cadastro positivo e interessado em obter crédito junto ao SPC, irá responder a um questionário socioeconômico e submeter suas respostas a um sistema de análise das para identificar os padrões de consumo e que de tipo de consumidor o mesmo se trata. Com o cruzamento dessas informações com o contido no Cadastro Positivo referente ao respectivo CPF ou CNPJ, passa-se ao time de marketing e de engenharia de produto um dado mais preciso do estilo de vida do solicitante (foco de gastos, quantidade de parcelas que comumente ele adquire, média de gasto por empréstimo, risco de não pagamento, entre outros indicadores).
-
-Em suma, o projeto visa a criação de um facilitador para desenvolvimento de produtos precisos e adequados ao meio financeiro das pessoas e empresas.
-
-
+  Foi definido, em calendário próprio fornecido pela FATEC, que o projeto de desenvolvimento deveria ser feito em um total de seis entregas realizadas ao longo do semestre:
+  
+  - [Entrega 1](https://github.com/equipespc/SPC_Fatec_G6/tree/master/Semana1) - 16/03/2020 à 20/03/2020;
+  
+  - [Entrega 2](https://github.com/equipespc/SPC_Fatec_G6/tree/master/Semana2) - 11/05/2020 à 15/05/2020;
+  
+  - [Entrega 3](https://github.com/equipespc/SPC_Fatec_G6/tree/master/Semana3) - 25/05/2020 à 29/06/2020;
+  
+  - [Entrega 4](https://github.com/equipespc/SPC_Fatec_G6/tree/master/Semana%204) - 08/06/2020 à 12/06/2020;
+  
+  - [Entrega 5](https://github.com/equipespc/SPC_Fatec_G6/tree/master/Semana%205) - 22/06/2020 à 26/06/2020;
+  
+  - [Entrega 6](https://github.com/equipespc/SPC_Fatec_G6/tree/master/Semana%206) - 06/07/2020 à 12/06/2020
 
 
 
