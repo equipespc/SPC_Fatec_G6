@@ -35,16 +35,13 @@
   
   A Aplicação ainda conta com o indicador de erros encontrados durante a análise da remessa de dados das tabelas .csv para posterior envio para correção junto das fontes remetentes.
   
-  ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/Data_Science.jpg)
-  ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Benef%C3%ADcios_Data_Science_e_Preparation.png)
-  
-  **Quais são os benefícios da data preparation?**                                        **Quais os benefícios do Data Science?**
-  
-  - Fortalecimento da autonomia dos setores com dados confiáveis;                         - Tomadas de decisões mais assertivas;
-  
-  - Ponto de partida para diversos novos produtos;                                        - Fidelização dos clientes;
-  
-  - Geração de um diferencial competitivo com a melhora dos dados;                        - Estratégias personalizadas que geram diferenciais competitivos frente à concorrência;
+  <p align="center">
+  <img width="600" height="200" src="https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/Data_Science.jpg">
+</p>
+
+  <p align="center">
+  <img width="600" height="200" src="https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Benef%C3%ADcios_Data_Science_e_Preparation.png">
+</p>
   
  ## **Ferramentas e Tecnologias** ##
  
