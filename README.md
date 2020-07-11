@@ -4,8 +4,8 @@
 
   Projeto integrador proposto pela Faculdade de Tecnologia de São José dos Campos em parceria com a SPC Brasil, parceiro educacional, para os alunos dos 2° semestre do curso de  Análise e Desenvolvimento de Sistemas, tendo por finalidade o desenvolvimento de um produto que visa criar um benefício (agregar valor) em resolver uma demanda do parceiro educacional com base nos dados fornecidos mediante legislação do Cadastro Positivo.
   
-    <p align="center">
-  <img width="500" height="500" src="https://www.cdlcampos.org.br/images/noticias/7829_100419085941_Sem_titulo.png">
+  <p align="center">
+  <img width="500" height="600" src="https://www.cdlcampos.org.br/images/noticias/7829_100419085941_Sem_titulo.png">
 </p>
 
 ## **Integrantes**
