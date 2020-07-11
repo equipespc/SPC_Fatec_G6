@@ -70,7 +70,7 @@
 
 ## **Entregas** ##
 
-  Foi definido, em calendário próprio fornecido pela FATEC, que o projeto de desenvolvimento deveria ser feito em um total de seis entregas realizadas ao longo do semestre:
+  Foi definido, em calendário próprio fornecido pela FATEC, que o projeto de desenvolvimento deveria ser feito em um total de seis entregas realizadas ao longo do semestre dentro dos prazos que se observa a seguir:
   
   - [Entrega 1](https://github.com/equipespc/SPC_Fatec_G6/tree/master/Semana1) - 16/03/2020 à 20/03/2020;
   
