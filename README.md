@@ -8,23 +8,23 @@
 
 ## **Integrantes**
 
-  [Marcos Yan Miranda Ferreira](https://github.com/equipespc) - **Scrum Master (SM)**.
+  - [Marcos Yan Miranda Ferreira](https://github.com/equipespc) - **Scrum Master (SM)**.
 
-  [Renan Vitor Fernandes Mendonça](https://github.com/RenanVitor) - **Product Owner (PO)**.
+  - [Renan Vitor Fernandes Mendonça](https://github.com/RenanVitor) - **Product Owner (PO)**.
 
-  [Ana Clara Graciano](https://github.com/anaclaragraciano) - **Development Team (DT)**.
+  - [Ana Clara Graciano](https://github.com/anaclaragraciano) - **Development Team (DT)**.
 
-  [João Pedro Apse Paes](https://github.com/JoaoPedroPaes) - **Development Team (DT)**.
+  - João Pedro Apse Paes](https://github.com/JoaoPedroPaes) - **Development Team (DT)**.
 
-  [Thiago Fernandes Canonici](https://github.com/thiagoCan) - **Development Team (DT)**.
+  - [Thiago Fernandes Canonici](https://github.com/thiagoCan) - **Development Team (DT)**.
 
 ## **Disciplinas Integradas**
   
-  **Sistemas de Informação** - Prof. Cláudio Etelvino de Lima.
+  **- Sistemas de Informação** - Prof. Cláudio Etelvino de Lima.
   
-  **Engenharia de Software I** - Prof.ª Juliana Forin Pasquini Martinez.
+  **- Engenharia de Software I** - Prof.ª Juliana Forin Pasquini Martinez.
   
-  **Linguagem de Programação** - Prof. Reinaldo Gen Ichiro Arakaki.
+  **- Linguagem de Programação** - Prof. Reinaldo Gen Ichiro Arakaki.
 
 
 ## **CPF Data Verifier: Conceito e Objetivo**
