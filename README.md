@@ -41,6 +41,8 @@
   
   A Aplicação ainda conta com o indicador de erros encontrados durante a análise da remessa de dados das tabelas .csv para posterior envio para correção junto das fontes remetentes.
   
+  Data Preparation consiste no processo de análise de dados em que são selecionadas as informações mais relevantes e potencialmente benéficas para a finalidade desejada pelo cliente. Tudo isso, na questão desse projeto, fica alinhado com o Data Science, que consiste na prática de extrair conhecimento, focado em tomada de decisão por meio de uma base de dados, independentemente se for em Big Data ou em um banco de dados tradicional. Sendo assim, há a presença do CPF Data Verifier, que é o responsável pela extração de dados e fornecer os insights para que a área de crédito da empresa possa fazer escolhas mais estratégicas com relação às pessoas físicas.
+  
   <p align="center">
   <img width="600" height="200" src="https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/Data_Science.jpg">
 </p>
