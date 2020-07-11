@@ -29,6 +29,10 @@
 
 ## **CPF Data Verifier: Conceito e Objetivo**
 
+  <p align="center">
+  <img width="600" height="200" src="https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/CPF_Data_Verifier_logo.png">
+</p>
+
   A partir das remessas de dados de pessoas físicas oriundos das fontes (instituições financeiras), surgiu a ideia de criar o CPF Data Verfier (Verificador de Dados de CPF) que surge como solução para a área de crédito, no sentido de executar o alinhamento para o trabalho em frentes de Data Science e Data Preparation, permitindo ao analista de crédito não somente validar os CPFs das pessoas físicas repassadas como também relacionar informações que possibilitem o levantamento de perfis de consumidor (quanto ao potencial, ou não, de bom pagador, região de moradia no país, quantidades de parcelas e valores totais gastos) com base na síntese de gráficos e tabelas apresentados na tela da aplicação desktop.
   
   Dessa forma, fica facilitado para o analista de crédito o processo de identificar potenciais consumidores com bom histórico de pagamento e ter acesso também aos valores médios de gasto de consumo para definir estratégias e produtos alinhados com a realidade financeira de cada consumidor.
