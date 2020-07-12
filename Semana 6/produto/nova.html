@@ -1,0 +1,940 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--===============================================================================================-->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="vendor/bootstrap/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="fonts/font-awesome-4.7.0/css/font-awesome.min.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="fonts/iconic/css/material-design-iconic-font.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="vendor/animate/animate.css" />
+    <link rel="stylesheet" type="text/css" href="css/util.css" />
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+  </head>
+  <body style="background-color: rgb(55, 87, 55);">
+    <div class="jumbotron" style="background-color: rgb(150, 216, 213);">
+      <h1 class="display-4">SPC Informações</h1>
+      <p class="lead">
+        Inserindo o seu CPF você pode adquirir informações sobre o seu crédito.
+      </p>
+      <hr class="my-4" />
+      <form class="form-inline">
+        <input
+          class="form-control mr-sm-2"
+          type="search"
+          placeholder="Search"
+          aria-label="Search"
+          id="cpf"
+        />
+
+        <button
+          class="btn btn-outline-success my-2 my-sm-0"
+          type="button"
+          data-toggle="modal"
+          style="background-color: rgb(232, 247, 30);"
+          id="pesquisa"
+          data-toggle="modal"
+        >
+          Pesquisar
+        </button>
+
+        <!-- Primeira tabela -->
+        <div
+          class="modal fade"
+          id="01367130760"
+          tabindex="-1"
+          role="dialog"
+          aria-labelledby="exampleModalCenterTitle"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">
+                  Historico pagamentos
+                </h5>
+                <button
+                  type="button"
+                  class="close"
+                  data-dismiss="modal"
+                  aria-label="Close"
+                >
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <table class="table table-striped">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col">Mês</th>
+                      <th scope="col">Prazo Parcela</th>
+                      <th scope="col">Valor</th>
+                      <th scope="col">Status</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>8</td>
+                      <td>5283.05</td>
+                      <td style="color: red;">atrasado</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">2</th>
+                      <td>-5</td>
+                      <td>5283.05</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>-3</td>
+                      <td>5283.05</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>-5</td>
+                        <td>5283.05</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">5</th>
+                        <td>-6</td>
+                        <td>5283.05</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">6</th>
+                        <td>-8</td>
+                        <td>5283.05</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>-6</td>
+                        <td>5283.05</td>
+                        <td >em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>-8</td>
+                        <td>5283.05</td>
+                        <td >em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>-9</td>
+                        <td>5283.05</td>
+                        <td >em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>-1</td>
+                        <td>5283.05</td>
+                        <td >em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>205</td>
+                        <td>5283.05</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>-7</td>
+                        <td>5283.05</td>
+                        <td >em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>-13</td>
+                        <td>5283.05</td>
+                        <td >em dia</td>
+                      </tr>
+                      
+                  </tbody>
+                </table>
+              </div>
+              <div class="modal-footer">
+                <button
+                  type="button"
+                  class="btn btn-secondary"
+                  data-dismiss="modal"
+                >
+                  Fechar
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Segunda tabela-->
+        <div
+          class="modal fade"
+          id="05227401381"
+          tabindex="-1"
+          role="dialog"
+          aria-labelledby="exampleModalCenterTitle"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">
+                  Historico pagamentos
+                </h5>
+                <button
+                  type="button"
+                  class="close"
+                  data-dismiss="modal"
+                  aria-label="Close"
+                >
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <table class="table table-striped">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col">Mês</th>
+                      <th scope="col">Prazo Parcela</th>
+                      <th scope="col">Valor</th>
+                      <th scope="col">Status</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>-123</td>
+                      <td>3095.59</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>-11</td>
+                      <td>3095.59</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>29</td>
+                      <td>3095.59</td>
+                      <td style="color: red;">atrasado</td>
+                    </tr>
+                      
+                  </tbody>
+                </table>
+              </div>
+              <div class="modal-footer">
+                <button
+                  type="button"
+                  class="btn btn-secondary"
+                  data-dismiss="modal"
+                >
+                  Fechar
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--Terceira tabela-->
+        <div
+          class="modal fade"
+          id="05309680888"
+          tabindex="-1"
+          role="dialog"
+          aria-labelledby="exampleModalCenterTitle"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">
+                  Historico pagamentos
+                </h5>
+                <button
+                  type="button"
+                  class="close"
+                  data-dismiss="modal"
+                  aria-label="Close"
+                >
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <table class="table table-striped">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col">Mês</th>
+                      <th scope="col">Prazo Parcela</th>
+                      <th scope="col">Valor</th>
+                      <th scope="col">Status</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>-242</td>
+                      <td>1828.16</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">2</th>
+                      <td>31</td>
+                      <td>1828.16</td>
+                      <td style="color: red;">atrasado</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>-125</td>
+                      <td>1828.16</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>51</td>
+                        <td>1828.16</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">5</th>
+                        <td>-154</td>
+                        <td>1828.16</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">6</th>
+                        <td>-213</td>
+                        <td>1828.168</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>203</td>
+                        <td>1828.16</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">8</th>
+                        <td>116</td>
+                        <td>1828.16</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">9</th>
+                        <td>29</td>
+                        <td>1828.16</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">10</th>
+                        <td>-30</td>
+                        <td>1828.16</td>
+                        <td >em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">11</th>
+                        <td>148</td>
+                        <td>1828.16</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">12</th>
+                        <td>118</td>
+                        <td>1828.16</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">13</th>
+                        <td>238</td>
+                        <td>1828.16</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      
+                  </tbody>
+                </table>
+              </div>
+              <div class="modal-footer">
+                <button
+                  type="button"
+                  class="btn btn-secondary"
+                  data-dismiss="modal"
+                >
+                  Fechar
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Quarta tabela-->
+        <div
+          class="modal fade"
+          id="09639103101"
+          tabindex="-1"
+          role="dialog"
+          aria-labelledby="exampleModalCenterTitle"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">
+                  Historico pagamentos
+                </h5>
+                <button
+                  type="button"
+                  class="close"
+                  data-dismiss="modal"
+                  aria-label="Close"
+                >
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <table class="table table-striped">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col">Mês</th>
+                      <th scope="col">Prazo Parcela</th>
+                      <th scope="col">Valor</th>
+                      <th scope="col">Status</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>3</td>
+                      <td>2316.89</td>
+                      <td style="color: red;">atrasado</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">2</th>
+                      <td>5</td>
+                      <td>2251.29</td>
+                      <td style="color: red;">atrasado</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>-59</td>
+                      <td>2205.22</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>238</td>
+                        <td>2205.22</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">5</th>
+                        <td>5</td>
+                        <td>2205.22</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">6</th>
+                        <td>4</td>
+                        <td>2437.53</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>-183</td>
+                        <td>2437.53</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">8</th>
+                        <td>8</td>
+                        <td>2437.53</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">9</th>
+                        <td>7</td>
+                        <td>2437.53</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">10</th>
+                        <td>150</td>
+                        <td>2437.53</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">11</th>
+                        <td>120</td>
+                        <td>2437.53</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">12</th>
+                        <td>148</td>
+                        <td>2437.53</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="modal-footer">
+                <button
+                  type="button"
+                  class="btn btn-secondary"
+                  data-dismiss="modal"
+                >
+                  Fechar
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Quinta tabela-->
+        <div
+          class="modal fade"
+          id="24048813021"
+          tabindex="-1"
+          role="dialog"
+          aria-labelledby="exampleModalCenterTitle"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">
+                  Historico pagamentos
+                </h5>
+                <button
+                  type="button"
+                  class="close"
+                  data-dismiss="modal"
+                  aria-label="Close"
+                >
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <table class="table table-striped">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col">Mês</th>
+                      <th scope="col">Prazo Parcela</th>
+                      <th scope="col">Valor</th>
+                      <th scope="col">Status</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>0</td>
+                      <td>4813.88</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">2</th>
+                      <td>0</td>
+                      <td>4813.88</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>0</td>
+                      <td>4813.88</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>0</td>
+                        <td>4813.88</td>
+                        <td >em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">5</th>
+                        <td>0</td>
+                        <td>4813.88</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">6</th>
+                        <td>1</td>
+                        <td>4813.88</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>0</td>
+                        <td>4813.88</td>
+                        <td >em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">8</th>
+                        <td>0</td>
+                        <td>4813.88</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">9</th>
+                        <td>1</td>
+                        <td>4813.88</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">10</th>
+                        <td>0</td>
+                        <td>4813.88</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">11</th>
+                        <td>2</td>
+                        <td>4813.88</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">12</th>
+                        <td>0</td>
+                        <td>4813.88</td>
+                        <td>em dia</td>
+                      </tr>
+                      
+                  </tbody>
+                </table>
+              </div>
+              <div class="modal-footer">
+                <button
+                  type="button"
+                  class="btn btn-secondary"
+                  data-dismiss="modal"
+                >
+                  Fechar
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+       
+       <!-- Tabelas extras
+         Sexta tabela
+        <div
+          class="modal fade"
+          id="01367130760"
+          tabindex="-1"
+          role="dialog"
+          aria-labelledby="exampleModalCenterTitle"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">
+                  Historico pagamentos
+                </h5>
+                <button
+                  type="button"
+                  class="close"
+                  data-dismiss="modal"
+                  aria-label="Close"
+                >
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <table class="table table-striped">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col">Mês</th>
+                      <th scope="col">Prazo Parcela</th>
+                      <th scope="col">Valor</th>
+                      <th scope="col">Status</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>-11</td>
+                      <td>1496.98</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">2</th>
+                      <td>-67</td>
+                      <td>1496.98</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>-12</td>
+                      <td>1496.98</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>21</td>
+                        <td>1496.98</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">5</th>
+                        <td>-14</td>
+                        <td>1496.98</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">6</th>
+                        <td>-12</td>
+                        <td>1496.98</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>25</td>
+                        <td>1496.98</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      
+                  </tbody>
+                </table>
+              </div>
+              <div class="modal-footer">
+                <button
+                  type="button"
+                  class="btn btn-secondary"
+                  data-dismiss="modal"
+                >
+                  Fechar
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        Sétima tabela
+        <div
+          class="modal fade"
+          id="01367130760"
+          tabindex="-1"
+          role="dialog"
+          aria-labelledby="exampleModalCenterTitle"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">
+                  Historico pagamentos
+                </h5>
+                <button
+                  type="button"
+                  class="close"
+                  data-dismiss="modal"
+                  aria-label="Close"
+                >
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <table class="table table-striped">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col">Mês</th>
+                      <th scope="col">Prazo Parcela</th>
+                      <th scope="col">Valor</th>
+                      <th scope="col">Status</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>-11</td>
+                      <td>1496.98</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">2</th>
+                      <td>-67</td>
+                      <td>1496.98</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>-12</td>
+                      <td>1496.98</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>21</td>
+                        <td>1496.98</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">5</th>
+                        <td>-14</td>
+                        <td>1496.98</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">6</th>
+                        <td>-12</td>
+                        <td>1496.98</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>25</td>
+                        <td>1496.98</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      
+                  </tbody>
+                </table>
+              </div>
+              <div class="modal-footer">
+                <button
+                  type="button"
+                  class="btn btn-secondary"
+                  data-dismiss="modal"
+                >
+                  Fechar
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+         Oitava tabela
+        <div
+          class="modal fade"
+          id="01367130760"
+          tabindex="-1"
+          role="dialog"
+          aria-labelledby="exampleModalCenterTitle"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">
+                  Historico pagamentos
+                </h5>
+                <button
+                  type="button"
+                  class="close"
+                  data-dismiss="modal"
+                  aria-label="Close"
+                >
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <table class="table table-striped">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col">Mês</th>
+                      <th scope="col">Prazo Parcela</th>
+                      <th scope="col">Valor</th>
+                      <th scope="col">Status</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>-11</td>
+                      <td>1496.98</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">2</th>
+                      <td>-67</td>
+                      <td>1496.98</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>-12</td>
+                      <td>1496.98</td>
+                      <td>em dia</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>21</td>
+                        <td>1496.98</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">5</th>
+                        <td>-14</td>
+                        <td>1496.98</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">6</th>
+                        <td>-12</td>
+                        <td>1496.98</td>
+                        <td>em dia</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">7</th>
+                        <td>25</td>
+                        <td>1496.98</td>
+                        <td style="color: red;">atrasado</td>
+                      </tr>
+                      
+                  </tbody>
+                </table>
+              </div>
+              <div class="modal-footer">
+                <button
+                  type="button"
+                  class="btn btn-secondary"
+                  data-dismiss="modal"
+                >
+                  Fechar
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      -->
+      </form>
+      
+    </div>
+    <div class="card text-center">
+      <div class="card-header" >
+        Historico do CPF
+      </div>
+      <div class="card-body"id="numCPF" >
+        <h5 class="card-title" id="dados"></h5>
+        <p class="card-text"></p>
+      </div>
+    </div>
+
+     
+    </div>
+
+
+    <!--===============================================================================================-->
+    <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/animsition/js/animsition.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/bootstrap/js/popper.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/select2/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/daterangepicker/moment.min.js"></script>
+    <script src="vendor/daterangepicker/daterangepicker.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/countdowntime/countdowntime.js"></script>
+
+    <script src="script2.js"></script>
+    <!--===============================================================================================-->
+  </body>
+</html>
