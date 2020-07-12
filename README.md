@@ -100,7 +100,7 @@
   
   - [Backlog da Entrega 5](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%205/Product_Backlog_Grupo%206%20(2).xlsx)
   
-  - [Backlog da Entrega 6]EM ANDAMENTO
+  - [Backlog da Entrega 6](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Product_Backlog_Grupo%206_novo.xlsx)
 
 
 
