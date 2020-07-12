@@ -67,6 +67,10 @@
   
  **Exemplo: CPFs por Estado de Origem e Estado de Moradia Atual**
  ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Gr%C3%A1fico_CPF%20Estado_e_Origem.PNG)
+ 
+ ## **Fluxograma da solução** ##
+ 
+ [Entrar com o fluxograma]
 
 ## **Entregas** ##
 
@@ -82,7 +86,21 @@
   
   - [Entrega 5](https://github.com/equipespc/SPC_Fatec_G6/tree/master/Semana%205) - 22/06/2020 à 26/06/2020;
   
-  - [Entrega 6](https://github.com/equipespc/SPC_Fatec_G6/tree/master/Semana%206) - 06/07/2020 à 12/06/2020
+  - [Entrega 6](https://github.com/equipespc/SPC_Fatec_G6/tree/master/Semana%206) - 06/07/2020 à 12/06/2020;
+  
+  ## **Backlog das entregas** ##
+  
+  - [Backlog da Entrega 1](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/Documenta%C3%A7%C3%A3o/PI_Modelo_VISAO_DESENV_OO.pdf)
+  
+  - [Backlog da Entrega 2](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana2/Documenta%C3%A7%C3%A3o/Sprint2_time6%20(2).pdf)
+  
+  - [Backlog da Entrega 3](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana3/Documentos/Product_Backlog_Grupo%206.xlsx)
+  
+  - [Backlog da Entrega 4](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%204/Back-end/Product_Backlog_Grupo%206_novo.xlsx)
+  
+  - [Backlog da Entrega 5](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%205/Product_Backlog_Grupo%206%20(2).xlsx)
+  
+  - [Backlog da Entrega 6]EM ANDAMENTO
 
 
 
