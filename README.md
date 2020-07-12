@@ -20,7 +20,7 @@
 
   - [Thiago Fernandes Canonici](https://github.com/thiagoCan) - **Development Team (DT)**.
 
-## **Disciplinas Integradas**
+## **Disciplinas**
   
   **- Sistemas de Informação** - Prof. Cláudio Etelvino de Lima.
   
