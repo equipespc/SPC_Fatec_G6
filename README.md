@@ -1,6 +1,6 @@
 ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/logoFINAL.jpg)
 
-## Projeto Integrador - 2° Semestre - B
+## Projeto Integrador - 2° Semestre - ADS - B
 
   Projeto integrador proposto pela Faculdade de Tecnologia de São José dos Campos em parceria com a SPC Brasil, parceiro educacional, para os alunos dos 2° semestre do curso de  Análise e Desenvolvimento de Sistemas, tendo por finalidade o desenvolvimento de um produto que visa criar um benefício (agregar valor) em resolver uma demanda do parceiro educacional com base nos dados fornecidos mediante legislação do Cadastro Positivo.
   
