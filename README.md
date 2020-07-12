@@ -53,7 +53,7 @@
   
  ## **Ferramentas e Tecnologias** ##
  
-  As análises das tabelas de remessa de dados de Pessoas Físicas bem como a geração de gráficos e tabelas resultado, foram codificadas e realizadas utilizando-se o Jupyter Notebook com o auxílio do PANDAS (Python) para a adaptação do código de validação do CPF fornecido, em JavaScript, pelo website da Receira Federal.
+  As análises das tabelas de remessa de dados de Pessoas Físicas bem como a geração de gráficos e tabelas resultado, foram codificadas e realizadas utilizando-se o Jupyter Notebook, a biblioteca Matplotlib.pyplot (uso exclusivo para construção de gráficos) e o uso do PANDAS (Python) para a adaptação do código de validação do CPF fornecido, em JavaScript, pelo website da Receira Federal.
   
   As telas da interface da aplicação foram idealizadas com tecnologia de Bootstrap, CSS, Html e JavaScript, contando ainda com o código da análise para a execução e exibição da mesma no próprio front-end.
   
@@ -63,7 +63,7 @@
   
   A aplicação, desenvolvida incialmente para Desktops, com foco em pessoa física para o setor de crédito do SPC Brasil, visa, por meio de algoritmo próprio fornecido pela receita federal (dando grau de realidade para a solução), validar os CPFs repassados na remessa de dados das mais diversas instituições financeiras a fim de cruzar os dados destes correspondentes ao histórico de consumo junto à fonte remetente e levantar gráficos e tabelas a serem exibidos nas telas da solução.
   
-  As análises permitiram concluir um espaço amostral, da 2ª remessa em questão, de 13 CPFs validados com suas respectivas regiões e particularidades de crédito, como exemplo de resultado de análise. Abaixo é possível visualizar dois gráficos desse espaço amostral separado por região do país em termos de origem e moradia atual.
+  As análises permitiram concluir um espaço amostral, da 2ª remessa em questão, de 12 CPFs validados com suas respectivas regiões e particularidades de crédito, como exemplo de resultado de análise. Abaixo é possível visualizar dois gráficos desse espaço amostral separado por região do país em termos de origem e moradia atual.
   
  **Exemplo: CPFs por Estado de Origem e Estado de Moradia Atual**
  ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Gr%C3%A1fico_CPF%20Estado_e_Origem.PNG)
