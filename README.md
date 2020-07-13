@@ -5,7 +5,7 @@
   Projeto integrador proposto pela Faculdade de Tecnologia de São José dos Campos em parceria com a SPC Brasil, parceiro educacional, para os alunos dos 2° semestre do curso de  Análise e Desenvolvimento de Sistemas, tendo por finalidade o desenvolvimento de um produto que visa criar um benefício (agregar valor) em resolver uma demanda do parceiro educacional com base nos dados fornecidos mediante legislação do Cadastro Positivo.
   
   <p align="center">
-  <img width="400" height="300" src="https://ml91vcve6uzi.i.optimole.com/NVQaHHo-pSBHTkIA/w:auto/h:auto/q:75/https://cdlcampina.org.br/site/wp-content/uploads/2020/01/Captura-de-tela-2017-03-23-15.36.23-thegem-blog-timeline-large.png">
+  <img src="https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana1/Cad_Pos.jpg">
 </p>
 
 ## **Integrantes**
