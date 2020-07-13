@@ -70,14 +70,12 @@
  
  **Exemplo: Rodando a aplicação**
  
-  <p align="center">
  ![Rodando o CPF Data Verifier](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Gif%20da%20Aplica%C3%A7%C3%A3o/Spc_gif.gif)
-  </p>
  
- ## **Diagrama da solução** ##
+## **Diagrama da solução** ##
  
  <p align="center">
- ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/DCU_PI_SPRINT6.png)
+  <img width="400" height="300" src="https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/DCU_PI_SPRINT6.png">
 </p>
 
 ## **Entregas** ##
