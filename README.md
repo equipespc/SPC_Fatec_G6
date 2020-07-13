@@ -72,6 +72,10 @@
  
  ![Rodando o CPF Data Verifier](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Gif%20da%20Aplica%C3%A7%C3%A3o/Spc_gif.gif)
  
+ <video width="320" height="240" controls>
+  <source src="https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Gif%20da%20Aplica%C3%A7%C3%A3o/VID-20200712-WA0020.mp4" type="video/mp4">
+</video>
+ 
 ## **Diagrama da solução** ##
  
  <p align="center">
