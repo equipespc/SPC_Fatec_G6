@@ -14,8 +14,8 @@
 
 7.	Colocando um CPF dentro do arquivo de dados o usuário poderá ver uma tabela com algumas informações do estado de pagamento. Para efeito de teste temos 5 CPF válidos a serem exibidos na tela:
 
-•	013.671.307-60
-•	052.274.013-81
-•	053.096.808-88
-•	096.391.031-01
-•	240.488.130-21
+-	013.671.307-60
+-	052.274.013-81
+-	053.096.808-88
+-	096.391.031-01
+-	240.488.130-21
