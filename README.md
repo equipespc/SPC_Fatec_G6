@@ -61,7 +61,7 @@
 
 ## **Funcionamento e embasamento técnico** ##
   
-  A aplicação, desenvolvida incialmente para Desktops, com foco em pessoa física para o setor de crédito do SPC Brasil, visa, por meio de algoritmo próprio fornecido pela receita federal (dando grau de realidade para a solução), validar os CPFs repassados na remessa de dados das mais diversas instituições financeiras a fim de cruzar os dados destes correspondentes ao histórico de consumo junto à fonte remetente e levantar gráficos e tabelas a serem exibidos nas telas da solução.
+  A aplicação, desenvolvida incialmente para Desktops, com foco em pessoa física para o setor de crédito do SPC Brasil, visa, por meio de algoritmo próprio fornecido pela receita federal (dando grau de realidade para a solução), validar os CPFs repassados na remessa de dados das mais diversas instituições financeiras a fim de cruzar os dados destes correspondentes ao histórico de consumo junto à fonte remetente e levantar informações a serem exibidas nas telas da solução.
   
   As análises permitiram concluir um espaço amostral, da 2ª remessa em questão, de 12 CPFs validados com suas respectivas regiões e particularidades de crédito, como exemplo de resultado de análise. Abaixo é possível visualizar dois gráficos desse espaço amostral separado por região do país em termos de origem e moradia atual.
   
