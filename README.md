@@ -75,7 +75,7 @@
 ## **Diagrama da solução** ##
  
  <p align="center">
-  <img width="400" height="300" src="https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/DCU_PI_SPRINT6.png">
+  <img width="500" height="400" src="https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/DCU_PI_SPRINT6.png">
 </p>
 
 ## **Entregas** ##
