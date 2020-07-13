@@ -72,9 +72,9 @@
  
  ![Rodando o CPF Data Verifier](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Gif%20da%20Aplica%C3%A7%C3%A3o/Spc_gif.gif)
  
- ## **Fluxograma da solução** ##
+ ## **Diagrama da solução** ##
  
- [Entrar com o fluxograma]
+ ![alt text](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/DCU_PI_SPRINT6.png)
 
 ## **Entregas** ##
 
