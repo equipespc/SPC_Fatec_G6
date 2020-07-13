@@ -70,7 +70,7 @@
  
  **Exemplo: Rodando a aplicação**
  
- ![](Gif_Aplicação.gif)
+ ![](SPC_gif.gif)
  
  ## **Fluxograma da solução** ##
  
