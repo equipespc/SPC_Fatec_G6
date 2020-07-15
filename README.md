@@ -16,20 +16,19 @@
 
   - [Renan Vitor Fernandes Mendonça](https://github.com/RenanVitor) - **Product Owner (PO)**.
   
-    LinkedIn: [Renan Vitor](https://www.linkedin.com/in/renan-vitor-a93814109/)
+    LinkedIn: [Renan Vitor](https://www.linkedin.com/in/renan-vitor-a93814109/).
 
   - [Ana Clara Graciano](https://github.com/anaclaragraciano) - **Development Team (DT)**.
   
-    LinkedIn: [Ana Clara](https://www.linkedin.com/in/ana-clara-graciano-41b5b9175/)
-    
+    LinkedIn: [Ana Clara](https://www.linkedin.com/in/ana-clara-graciano-41b5b9175/).
 
   - [João Pedro Apse Paes](https://github.com/JoaoPedroPaes) - **Development Team (DT)**.
   
-    LinkedIn: [João Pedro](https://www.linkedin.com/in/joão-pedro-apse-paes-5339b51b2)
+    LinkedIn: [João Pedro](https://www.linkedin.com/in/joão-pedro-apse-paes-5339b51b2).
 
   - [Thiago Fernandes Canonici](https://github.com/thiagoCan) - **Development Team (DT)**.
   
-    LinkedIn: [Thiago Fernandes](https://www.linkedin.com/in/thiago-canonici-943b97b8/)
+    LinkedIn: [Thiago Fernandes](https://www.linkedin.com/in/thiago-canonici-943b97b8/).
 
 ## **Disciplinas**
   
@@ -84,6 +83,10 @@
  **OBS.: O vídeo de funcionamento da aplicação pode ser baixado para visualização [Clicando Aqui](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Gif%20da%20Aplica%C3%A7%C3%A3o/VID-20200712-WA0020.mp4).**
  
  ![Rodando o CPF Data Verifier](https://github.com/equipespc/SPC_Fatec_G6/blob/master/Semana%206/Gif%20da%20Aplica%C3%A7%C3%A3o/Spc_gif.gif)
+ 
+ ## **Vídeo de apresentação do Produto** ##
+ 
+ O vídeo de apresentação do CPF Data Verifier pode ser visualizado no YouTube [Clicando aqui](https://youtu.be/j__YiRh-PB0).
  
 ## **Diagrama da solução** ##
  
