@@ -11,19 +11,24 @@
 ## **Integrantes**
 
   - [Marcos Yan Miranda Ferreira](https://github.com/equipespc) - **Scrum Master (SM)**.
+  
     LinkedIn: [Marcos Yan](https://www.linkedin.com/in/yanmiranda/).
 
   - [Renan Vitor Fernandes Mendonça](https://github.com/RenanVitor) - **Product Owner (PO)**.
+  
     LinkedIn: [Renan Vitor](https://www.linkedin.com/in/renan-vitor-a93814109/)
 
   - [Ana Clara Graciano](https://github.com/anaclaragraciano) - **Development Team (DT)**.
+  
     LinkedIn: [Ana Clara](https://www.linkedin.com/in/ana-clara-graciano-41b5b9175/)
     
 
   - [João Pedro Apse Paes](https://github.com/JoaoPedroPaes) - **Development Team (DT)**.
+  
     LinkedIn: [João Pedro](https://www.linkedin.com/in/joão-pedro-apse-paes-5339b51b2)
 
   - [Thiago Fernandes Canonici](https://github.com/thiagoCan) - **Development Team (DT)**.
+  
     LinkedIn: [Thiago Fernandes](https://www.linkedin.com/in/thiago-canonici-943b97b8/)
 
 ## **Disciplinas**
